@@ -45,7 +45,17 @@ This SQL project demonstrates how to:
 
 ## 🛠️ Setup Instructions
 
-### **1. Create the Database**
+### Create the Database**
 ```sql
 CREATE DATABASE attendencedb;
 USE attendencedb;
+
+### Added DATA ANALYTICS Concepts
+
+We will calculate:
+
+✔ KPI 1 — Attendance %
+✔ KPI 2 — Late Arrival %
+✔ KPI 3 — Department-wise performance
+✔ KPI 4 — Productivity Hours
+✔ KPI 5 — Trend Analysis (Daily/Monthly)
